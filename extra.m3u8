@@ -55,3 +55,6 @@ https://ardinesh-nettv.puspas.com.np/live/nettv-universal/star-sports-select-1-s
 
 #EXTINF:-1 tvg-id="516" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/235/image" group-title="Sports",Star Sports Select 2 
 https://ardinesh-nettv.puspas.com.np/live/nettv-universal/star-sports-select-2/index.ts
+
+#EXTINF:-1 tvg-id="865" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/229/image" ,Fashion TV Asia HD
+https://ardinesh-nettv.puspas.com.np/live/nettv-universal/fashion-tv-asia-hd/index.ts
