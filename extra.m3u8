@@ -35,3 +35,23 @@ https://ardinesh-nettv.puspas.com.np/live/nettv-universal/hungama-tv/index.ts
 #EXTINF:0,Super Hungama HD
 #EXTGRP:unsorted
 https://ardinesh-nettv.puspas.com.np/live/nettv-universal/disney-xd/index.ts
+#EXTINF:-1 tvg-id="510" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/112/image" ,Star Sports 1 HD
+https://ardinesh-nettv.puspas.com.np/live/nettv-universal/star-sports-1-hd/index.ts
+
+#EXTINF:-1 tvg-id="511" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/113/image" ,Star Sports 2 HD
+https://ardinesh-nettv.puspas.com.np/live/nettv-universal/star-sports-2-hd/index.ts
+
+#EXTINF:-1 tvg-id="512" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/114/image" ,Star Sports 1 HD Hindi
+https://ardinesh-nettv.puspas.com.np/live/nettv-universal/star-sports-1-hd-hindi/index.ts
+
+#EXTINF:-1 tvg-id="513" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/115/image" ,Star Sports Select HD 1
+https://ardinesh-nettv.puspas.com.np/live/nettv-universal/star-sports-select-hd-1/index.ts
+
+#EXTINF:-1 tvg-id="514" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/116/image" ,Star Sports Select HD 2
+https://ardinesh-nettv.puspas.com.np/live/nettv-universal/star-sports-select-hd-2/index.ts
+
+#EXTINF:-1 tvg-id="515" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/242/image" group-title="Sports",Star Sports Select 1 
+https://ardinesh-nettv.puspas.com.np/live/nettv-universal/star-sports-select-1-sd/index.ts
+
+#EXTINF:-1 tvg-id="516" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/235/image" group-title="Sports",Star Sports Select 2 
+https://ardinesh-nettv.puspas.com.np/live/nettv-universal/star-sports-select-2/index.ts
